@@ -18,4 +18,3 @@ A total of **14 vulnerabilities** were identified during the assessment.
 
 ## 📁 Repository Contents
 * `Vulnerability_Assessment_Report.pdf`: The full detailed report including impact and remediation steps.
-*
